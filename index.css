@@ -19,7 +19,7 @@ body {
 }
 
 #header {
-    background-image: url(images/bielefeld_header.jpg);
+    background-image: url(bielefeld_header.jpg);
     background-size: cover;
     height: 500px;
     color: rgb(19, 18, 18);
